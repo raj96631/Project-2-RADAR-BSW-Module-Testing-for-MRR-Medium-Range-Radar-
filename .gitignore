@@ -48,7 +48,3 @@ env/
 *.dsp
 *.trc
 *.dat
-
-# Ignore test results except screenshots
-/testcases_and_execution/*_results*
-/screenshots/*.bak
