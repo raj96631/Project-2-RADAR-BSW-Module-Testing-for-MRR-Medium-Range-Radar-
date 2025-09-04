@@ -33,7 +33,6 @@ The goal is to ensure **performance, reliability, and compliance** of radar func
 RADAR_BSW_MRR_Testing/
 │── README.md                # Project Overview
 │── LICENSE                  # License file
-│── .gitignore               # Git ignore rules
 │
 ├── documents/               # Requirements
 │   ├── ACC_requirements.xlsx
